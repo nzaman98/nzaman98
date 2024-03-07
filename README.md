@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
 <h4 align="center">By profession, I talk to Robots and attempt to figure out how they see me; by nature, I like to talk about Software Engineering and Deep Learning with my fellow humans</h4>
 
-![](https://komarev.com/ghpvc/?username=NafBZ&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=nzaman98&color=brightgreen)
 
-- 🌱 I’m currently learning **React, Flutter, Three.js.**
+- 🌱 I’m currently learning **React, Nestjs, Three.js.**
 
 - 💬 Ask me about **Travelling in Europe**
 
-- 📫 Reach me through **zamannafees@gmail.com**
+- 📫 Reach me through **nafees.zaman@physiotherapie-mobili.de**
 
 - ⚡ Fun fact: **Madridista**
 
