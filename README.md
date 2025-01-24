@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
-<h4 align="center">By profession, I talk to Robots and attempt to figure out how they see me; by nature, I like to talk about Software Engineering and Deep Learning with my fellow humans</h4>
+<h4 align="center">A Wanna be Computer Vision Engineer</h4>
 
 ![](https://komarev.com/ghpvc/?username=nzaman98&color=brightgreen)
 
-- 🌱 I’m currently learning **React, Nestjs, Three.js.**
+- 🌱 I’m currently learning **Distributed Systems**
 
 - 💬 Ask me about **Travelling in Europe**
 
@@ -75,16 +75,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NafBZ&rank_icon=github&show_icons=true&theme=catppuccin_latte" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NafBZ&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte" />
-</a>
+
 
 <br><br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Flutter-Apps&theme=catppuccin_latte)](https://github.com/NafBZ/Flutter-Apps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Stereo-Visual-Odometry&theme=catppuccin_latte)](https://github.com/NafBZ/Stereo-Visual-Odometry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=OccupancyGridMap&theme=catppuccin_latte)](https://github.com/NafBZ/OccupancyGridMap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=react-projects&theme=catppuccin_latte)](https://github.com/NafBZ/react-projects)
 
 <!--
 **nzaman98/nzaman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
