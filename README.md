@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
-<h4 align="center">A Wanna be Computer Vision Engineer</h4>
+<h4 align="center">Software Engineer</h4>
 
 ![](https://komarev.com/ghpvc/?username=nzaman98&color=brightgreen)
 
@@ -70,17 +70,7 @@
 <!--   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="pg" width="40" height="40"/> </a> -->
   
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NafBZ&rank_icon=github&show_icons=true&theme=catppuccin_latte" />
-</a>
-
-
 <br><br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Stereo-Visual-Odometry&theme=catppuccin_latte)](https://github.com/NafBZ/Stereo-Visual-Odometry)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=OccupancyGridMap&theme=catppuccin_latte)](https://github.com/NafBZ/OccupancyGridMap)
 
 <!--
 **nzaman98/nzaman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
